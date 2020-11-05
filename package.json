@@ -16,6 +16,7 @@
     "@coreui/icons": "0.3.0",
     "@coreui/react": "~2.5.0",
     "animate.css": "^3.7.2",
+    "babel-eslint": "^10.1.0",
     "bootstrap": "^4.4.1",
     "chart.js": "^2.8.0",
     "classnames": "^2.2.6",
@@ -64,8 +65,6 @@
   },
   "eslintConfig": {
     "extends": "react-app"
-
-   
   },
   "browserslist": [
     ">0.2%",
