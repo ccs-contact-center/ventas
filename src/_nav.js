@@ -1,4 +1,5 @@
-export default {
+
+export default  {
   items: [
     {
       title: true,
@@ -6,39 +7,24 @@ export default {
       class: 'text-center',
     },
     {
-      name: 'Reglas ortográficas de la V',
+      name: 'Objetivo',
       icon: 'icon-tag',
-     
     },
-
-   
     {
-      name: 'Evaluación 1',
+      name: 'Introducción',
       icon: 'icon-puzzle',
-    
     },
     {
-      name: 'Evaluación 2',
+      name: 'Ventas',
       icon: 'icon-puzzle',
-    
     },
-    {
-      name: 'Evaluación 3',
-      icon: 'icon-puzzle',
-    
-    },
-
-    {
-      name: 'Conclusión',
-      icon: 'icon-tag',
-      
-    },
-
     {
       name: 'Despedida',
-      icon: 'icon-tag',
-      
+      icon: 'icon-puzzle',
     },
-
+    {
+      name: 'Evaluación del curso',
+      icon: 'icon-tag',
+    },
   ],
 }
