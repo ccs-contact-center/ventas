@@ -1,6 +1,7 @@
 
-export default  {
-  items: [
+ export  default {
+
+  items : [
     {
       title: true,
       name: 'Inicio',
@@ -26,5 +27,9 @@ export default  {
       name: 'Evaluación del curso',
       icon: 'icon-tag',
     },
-  ],
-}
+  ]
+ }
+ 
+
+
+
