@@ -46,20 +46,11 @@ class TemaVeintidosView extends Component {
                    Para ponerla en práctica, debes simular un pequeño error en la información
                     de la que dispones, o que el cliente te ha proporcionado, tal y como puedes
                      ver en el siguiente ejemplo:
-
                 <br />
-                – “Muy bien, pues le apunto aquí que necesita los muebles para el día 21, ¿no?”<br />
-
-                – “No, sería a partir del día 21, que es cuando me dan las llaves”.<br />
-
-                Si el cliente te corrige, estará asumiendo de forma tácita el cierre de la venta.
-
-
+                 – “Muy bien, pues le apunto aquí que necesita los muebles para el día 21, ¿no?”<br />
+                 – “No, sería a partir del día 21, que es cuando me dan las llaves”.<br />
+                 Si el cliente te corrige, estará asumiendo de forma tácita el cierre de la venta.
                 </p>
-
-
-
-                {/* <Button color="secondary" onClick={this.abrirModal}>Ver video</Button> */}
               </div>
             </Col>
 
